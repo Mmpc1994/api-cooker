@@ -1,0 +1,17 @@
+{
+  "name": "api-cooker",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "mmmpc",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./demo/*/index.html"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "hash.js": "^1.1.7"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
